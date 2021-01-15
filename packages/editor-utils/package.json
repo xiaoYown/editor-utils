@@ -12,6 +12,9 @@
     "email": "qzy09101018@sina.com"
   },
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
@@ -21,5 +24,5 @@
     "rollup": "^2.36.1",
     "rollup-plugin-babel": "^4.4.0"
   },
-  "gitHead": "d289a42eef5d0aa481e1201c29c165c4f9de3eae"
+  "gitHead": "5a095862576ba723612206c4d0a98a09149a608a"
 }
