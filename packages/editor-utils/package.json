@@ -1,6 +1,6 @@
 {
-  "name": "@xv/editor-utils",
-  "version": "0.0.4",
+  "name": "@xvd/editor-utils",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -24,5 +24,5 @@
     "rollup": "^2.36.1",
     "rollup-plugin-babel": "^4.4.0"
   },
-  "gitHead": "5a095862576ba723612206c4d0a98a09149a608a"
+  "gitHead": "9cfe9799bcf7845b5454b4589492b6cc62179007"
 }

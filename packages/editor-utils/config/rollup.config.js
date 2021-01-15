@@ -27,12 +27,6 @@ const config = {
         exclude: 'node_modules/**',
         extensions,
       }),
-      // node(),
-      // cjs(),
-      // replace({
-      //   __VERSION__: version
-      // }),
-      // buble()
     ]
   },
   output: {
